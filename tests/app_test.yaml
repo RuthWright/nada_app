@@ -1,0 +1,6 @@
+---
+program: app
+inputs:
+  num: 64
+expected_outputs:
+  my_output: 8
